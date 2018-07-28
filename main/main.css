@@ -1,0 +1,13 @@
+.navbar-brand{
+  padding-left: 2%;
+}
+.jumbotron{
+  background-image: url(cover.jpg);
+  background-size: 100%;
+  background-position: center center;
+  margin-top: 0.5%;
+  padding-bottom: 20%;
+}
+h1{
+  text-align: center;
+}
