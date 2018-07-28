@@ -1,5 +1,6 @@
 .navbar-brand{
   padding-left: 2%;
+  color: rgb(205, 148, 0);
 }
 .jumbotron{
   background-image: url(cover.jpg);
