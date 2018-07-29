@@ -1,3 +1,8 @@
+body {
+  font-family: "BioRhyme", sans-serif;
+  overflow: hidden;
+}
+
 .navbar-dark .navbar-brand{
   color: rgb(205, 148, 0);
 }
@@ -9,6 +14,7 @@
 }
 h1{
   text-align: center;
+  font-family: 'Oleo Script', 'serif';
 }
 .jumbotron {
   padding: 0;
