@@ -1,16 +1,16 @@
-.navbar-brand{
-  padding: auto auto;
-  padding-left: 2%;
+.navbar-dark .navbar-brand{
   color: rgb(205, 148, 0);
 }
-.jumbotron{
-  background-image: url(cover.jpg);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: center center;
-  margin-top: 0.5%;
-  padding-bottom: 20%;
+.navbar-dark .navbar-nav .nav-link{
+  color: rgb(205, 148, 0);
+}
+.nav-item .nav-link{
+  color: rgb(205, 148, 0);
 }
 h1{
   text-align: center;
 }
+img{
+
+}
+ 
