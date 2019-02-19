@@ -12,7 +12,7 @@ body {
 .nav-item .nav-link{
   color: rgb(205, 148, 0);
 }
-h1{
+h1, li{
   text-align: center;
   font-family: 'Oleo Script', 'serif';
 }
@@ -24,6 +24,21 @@ h1{
   background-size: cover;
   background-image: linear-gradient(135deg,rgba(119, 22, 153, 0.5), rgba(0, 255, 209, 0.63)),url("cover.jpg");
   }
-  .row{
+
+.row{
     height: 33vh;
+    border-radius: 10px;
   }
+
+#blog{
+  background-color: rgba(155, 155, 155, 0.5);
+  overflow: auto;
+  }
+
+#about{
+  font-size: 1.5rem;
+  }
+
+#skills{
+  font-weight: bolder;
+}
