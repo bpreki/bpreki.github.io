@@ -42,3 +42,9 @@ h1, li{
 #skills{
   font-weight: bolder;
 }
+#abt{
+  padding-top: 2rem;
+}
+.card-title{
+  text-align: center;
+}
