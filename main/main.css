@@ -48,3 +48,6 @@ h1, li{
 .card-title{
   text-align: center;
 }
+.carousel-inner{
+  height: 33vh;
+}
