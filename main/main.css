@@ -48,6 +48,30 @@ h1, li{
 .card-title{
   text-align: center;
 }
-.carousel-inner{
-  height: 33vh;
+.car1{
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(assets/Nodejs.jpg);
+}
+
+.car2{
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(assets/express.png);
+}
+
+.car3{
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(assets/mongoDB.png);
+}
+
+.car4{
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-image: url(assets/javaScript.jpg);
 }
