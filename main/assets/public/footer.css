@@ -1,0 +1,13 @@
+footer{
+    background-color:  #20001c;
+    color: #cc9139;
+}
+
+footer h1{
+    display: inline-block;
+    
+}
+
+footer h1 a:hover{
+    color: #6ea784;
+}

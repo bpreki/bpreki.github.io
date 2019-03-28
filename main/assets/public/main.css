@@ -1,0 +1,45 @@
+body {
+  height: 100%;
+  font-family: "BioRhyme", sans-serif;
+  overflow: hidden;
+}
+h1, li{
+  text-align: center;
+}
+ul, ul li{
+  list-style: none;
+}
+
+h2{
+  display: inline;
+}
+a{
+  color: #cc9139;
+}
+
+.jumbotron {
+  padding: 0;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(135deg,#20001c, #192b2f),url("cover.jpg");
+  }
+
+.row{
+    height: 33vh;
+    border-radius: 10px;
+  }
+
+.blog{
+  color: #6ea784;
+  }
+
+@media screen and (max-width: 500px){
+
+  .card-img-top{
+    width: 340px;
+    justify-content: center;
+    text-align: center;
+  }
+}

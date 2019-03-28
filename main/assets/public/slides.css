@@ -1,0 +1,58 @@
+.car1 {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../icons/Nodejs.jpg);
+}
+
+.car2 {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../icons/express.png);
+}
+
+.car3 {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../icons/mongoDB.png);
+}
+
+.car4 {
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../icons/javaScript.jpg);
+}
+
+@media screen and (max-width: 500px) {
+    .car1 {
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        background-image: url(../icons/Nodejs.jpg);
+    }
+
+    .car2 {
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        background-image: url(../icons/express.png);
+    }
+
+    .car3 {
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        background-image: url(../icons/mongoDB.png);
+    }
+
+    .car4 {
+        height: 200px;
+        background-position: center;
+        background-size: cover;
+        background-image: url(../icons/javaScript.jpg);
+    }
+
+}

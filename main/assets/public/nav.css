@@ -1,0 +1,32 @@
+.bg-dark {
+    background-color: #20001c !important;
+    color: #cc9139 !important;
+}
+
+#navbarDropdown {
+    color: #cc9139;
+    font-weight: bold;
+}
+#navbarDropdown:hover{
+    color: #6ea784 !important;
+}
+
+.navbar-brand {
+    color: #cc9139 !important;
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color: #6ea784 !important;
+}
+
+.dropdown-menu,
+.dropdown-menu a {
+    color: #cc9139;
+    background: #20001c !important;
+    font-weight: bold;
+}
+
+.dropdown-menu a:hover {
+    color: #6ea784;
+}
